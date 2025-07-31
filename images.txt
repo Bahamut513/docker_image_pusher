@@ -1,4 +1,1 @@
-#支持私库
-infiniflow/ragflow:v0.19.1
-infiniflow/infinity:v0.6.0-dev3
-
+valkey/valkey:8
